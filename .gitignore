@@ -1,0 +1,5 @@
+data/
+*.dta
+*.rtf
+*.log
+.DS_Store
